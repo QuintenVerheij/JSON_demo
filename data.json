@@ -1,1 +1,29 @@
-[{"Price":1,"Date":"09-04-2020","TheaterNumber":1,"SeatNumber":{"Row":"A","Seat":15}},{"Price":1,"Date":"09-04-2020","TheaterNumber":1,"SeatNumber":{"Row":"A","Seat":16}},{"Price":1,"Date":"09-04-2020","TheaterNumber":1,"SeatNumber":{"Row":"A","Seat":17}}]
+[
+  {
+    "Price": 1,
+    "Date": "DATE HAS BEEN MODIFIED",
+    "TheaterNumber": 1,
+    "SeatNumber": {
+      "Row": "A",
+      "Seat": 15
+    }
+  },
+  {
+    "Price": 1,
+    "Date": "09-04-2020",
+    "TheaterNumber": 1,
+    "SeatNumber": {
+      "Row": "A",
+      "Seat": 16
+    }
+  },
+  {
+    "Price": 1,
+    "Date": "09-04-2020",
+    "TheaterNumber": 1,
+    "SeatNumber": {
+      "Row": "A",
+      "Seat": 17
+    }
+  }
+]
